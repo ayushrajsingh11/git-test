@@ -4,7 +4,10 @@
   "description": "\"this is a test directory to learn git and node\"",
   "main": "index.hmtl",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+
   },
   "repository": {
     "type": "git",

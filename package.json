@@ -1,0 +1,19 @@
+{
+  "name": "git_test",
+  "version": "1.0.0",
+  "description": "\"this is a test directory to learn git and node\"",
+  "main": "index.hmtl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushrajsingh11/git-test.git"
+  },
+  "author": "ayush raj singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushrajsingh11/git-test/issues"
+  },
+  "homepage": "https://github.com/ayushrajsingh11/git-test#readme"
+}
